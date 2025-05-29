@@ -31,3 +31,4 @@ Generate `list3` by replacing each integer in `list1` with its mapped string val
 
 4. **Reduce:**
 From `list3`, create a reduced list that includes only values occurring more than once.
+![Capture PN](https://github.com/user-attachments/assets/49fd3580-3efc-44e1-bd5b-00941fd85bb5)
